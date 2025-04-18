@@ -67,7 +67,11 @@ namespace Calculator
             catch (Exception)
             {
                 throw new Exception("Неверное выражение");
+            
             }
         }
+
+       // Проверка ввода
+  
     }
 }
